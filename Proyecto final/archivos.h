@@ -1,0 +1,10 @@
+int generaAleatorio(int limInferior, int limSuperior);
+void menu();
+void mostrarSalaCine();
+void inicializarSalaCine();
+bool reservarAsiento(int fila, int asiento);
+void reservar();
+void bebidas();
+void alimentos();
+void factura();
+void cartelera();
